@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BasicIntentPractice</string>
+    <string name="display">Вывести на экран</string>
+    <string name="share">Поделиться</string>
+</resources>
